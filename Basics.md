@@ -28,6 +28,17 @@
 	1	Runs between vEdge routers and vSmart controllers and between the vSmart controllers.  - inside TLS/DTLS connections
 	2	Advertises control plane context.
   
-
+### vManage : Management plane
+	1	single pane of glass for Day0, Day1 and Day2 operations.
+	2	Real time alerting.
+	3	Centralized provisioning.
+	4	Configuration standardation.
+	5	Supports
+			REST API
+			CLI
+			NETCONF/YANG
+			SNMP
+			Syslog
+		
 
 
